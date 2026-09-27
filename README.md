@@ -1,7 +1,4 @@
-# From Local Receptive Fields to Global Context: A Systematic Study of 2D Self-Attention Placement in VGG for CIFAR-10
-
-**Course:** Deep Learning (TAU 2026b)  
-**Author:** Shoval Sapir  
+# From Local Receptive Fields to Global Context: A Systematic Study of 2D Self-Attention Placement in VGG for CIFAR-10 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karakan0112/Deep-Learning-Project/blob/main/notebooks/Project_Walkthrough.ipynb)
 
